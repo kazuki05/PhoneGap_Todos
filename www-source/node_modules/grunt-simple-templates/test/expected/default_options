@@ -1,0 +1,1 @@
+window.TEMPLATES = {"nested/template":"{{nested testing}}\n","template":"{{testing}}\n"};

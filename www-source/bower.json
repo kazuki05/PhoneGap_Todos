@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "backbone": "1.0.x",
+    "jquery": "2.0.x",
+    "marionette": "1.0.x",
+    "mustache": "0.7.x",
+    "underscore": "1.4.x",
+    "backbone.localStorage": "1.1.6",
+    "jquery-tmpl": "*",
+    "json2": "*"
+  }
+}
